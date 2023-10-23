@@ -11,6 +11,7 @@
     <div style="font-size:13px; color:#7b7a7a; text-align:left; line-height:20px; background:#fff; width: 90%;
     padding:5%; font-family:Arial, Helvetica, sans-serif;">
 
+
         Hi,<br /><br />
 
         Your OTP code for verification is:{{ $otp }}
