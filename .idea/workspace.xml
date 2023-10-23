@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9b492ae-e5d3-4a88-b2d0-4f37dbdaae95" name="Default Changelist" comment="" />
+    <list default="true" id="b9b492ae-e5d3-4a88-b2d0-4f37dbdaae95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +39,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpServers">
     <servers>
@@ -148,6 +154,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="2VYXbs2BuFemEPRZL4ZlhN7bMkT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -155,8 +162,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/CRSSupply/devtechnowin-crs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
@@ -181,7 +189,7 @@
     <option name="showServicesTree" value="false" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Dell\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -254,12 +262,16 @@
       <workItem from="1697620495774" duration="12226000" />
       <workItem from="1697689879740" duration="25758000" />
       <workItem from="1697776293604" duration="23307000" />
-      <workItem from="1698035653056" duration="6263000" />
+      <workItem from="1698035653056" duration="7828000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final code Riya" />
+    <option name="LAST_COMMIT_MESSAGE" value="final code Riya" />
   </component>
   <component name="WindowStateProjectService">
     <state x="452" y="93" key="#Inspections" timestamp="1695015977621">
@@ -294,12 +306,16 @@
     <state width="538" height="592" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1697800593157" />
     <state width="548" height="466" key="DebuggerActiveHint/0.0.1536.816@0.0.1536.816" timestamp="1696521525181" />
     <state width="685" height="590" key="DebuggerActiveHint/0.0.1920.1032@0.0.1920.1032" timestamp="1696926749846" />
-    <state x="491" y="152" key="FileChooserDialogImpl" timestamp="1697612301899">
+    <state x="491" y="152" key="FileChooserDialogImpl" timestamp="1698044911138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="491" y="152" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1697612301899" />
+    <state x="491" y="152" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1698044911138" />
     <state x="552" y="170" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1696081310832" />
     <state x="690" y="215" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1696925984726" />
+    <state x="534" y="258" width="297" height="270" key="Github.ShareDialog" timestamp="1698044657600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="258" width="297" height="270" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1698044657600" />
     <state width="1323" height="66" key="GridCell.Tab.0.bottom" timestamp="1697805708446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -393,11 +409,23 @@
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1696481242903" />
     <state x="0" y="0" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1696926339864" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1698044195555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1698044195555" />
     <state x="598" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1696999732749">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="478" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1696826748294" />
     <state x="598" y="300" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1696999732749" />
+    <state x="477" y="259" key="git4idea.ui.GitResetDialog" timestamp="1698044404407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="477" y="259" key="git4idea.ui.GitResetDialog/0.0.1366.728@0.0.1366.728" timestamp="1698044404407" />
+    <state x="477" y="265" key="git4idea.ui.GitStashDialog" timestamp="1698044423199">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="477" y="265" key="git4idea.ui.GitStashDialog/0.0.1366.728@0.0.1366.728" timestamp="1698044423199" />
     <state x="425" y="185" key="run.anything.popup" timestamp="1695813623342">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -407,6 +435,14 @@
     </state>
     <state x="378" y="55" width="672" height="604" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1697606820055" />
     <state x="425" y="62" width="672" height="676" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1696420992156" />
+    <state x="513" y="156" key="svn.repositoryBrowser" timestamp="1698044890109">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="156" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1698044890109" />
+    <state x="519" y="140" key="svn4idea.import.options" timestamp="1698044842080">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="519" y="140" key="svn4idea.import.options/0.0.1366.728@0.0.1366.728" timestamp="1698044842080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
