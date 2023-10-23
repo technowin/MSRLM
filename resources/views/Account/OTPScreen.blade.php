@@ -9,6 +9,8 @@
     <title>Please SignUp Here</title>
     <link href="{{ asset('css/OTPScreen.css') }}" rel="stylesheet">
 
+
+
 </head>
 
 <body>
